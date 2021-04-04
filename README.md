@@ -1,7 +1,7 @@
 <html>
     <head>
         <link rel="stylesheet" href="style.css"/>
-        
+        <meta name="google-site-verification" content="5FPbxVTCslFT4xJfBmZ_8xeXbSlnG3fxMKGWAsReRQA" />
     </head>
     <body>
         <header>
